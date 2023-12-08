@@ -23,4 +23,4 @@ To set up the project locally, follow the instructions in the [Getting Started](
 ## Technologies Used
 
 - Django
-- HTML, CSS, JavaScript.
+- Python,HTML, CSS.
